@@ -19,3 +19,4 @@ public class Ejercicio2 {
         System.out.println("El gasto total es: " + gasto_total);
     }
 }
+
