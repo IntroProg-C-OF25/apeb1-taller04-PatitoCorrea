@@ -14,5 +14,4 @@ public class Ejercicio9 {
         System.out.println("EL AREA TOTAL DEL POLIGONO ES: " + areatotal);
         
     }
-    
 }
