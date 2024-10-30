@@ -12,6 +12,5 @@ public class Ejercicio4 {
         valorPlanilla = costoMinuto * cantidadMinutos;
         //BLOQUE DE SALIDA DE RESULTADOS
         System.out.println("VALOR DE LA PLANILLA ES " + valorPlanilla);
-    }
-    
+    }    
 }
